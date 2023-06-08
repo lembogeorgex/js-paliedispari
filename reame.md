@@ -17,6 +17,8 @@
 
 1- Funzione per determinare se la parola è palindroma ( ? )
 
+2- Targettizzare elemento nel DOM e stampare il risultato in pagina
+
 # Pari e Dispari:
 
 0 - Formulare la domanda per il numero da chiedere all'utente su JS tramite prompt ( o input )
